@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none" role="img" aria-label="Jo�o Pedro  Full Stack Developer">
+  <rect width="1200" height="630" fill="#ffffff"/>
+  <line x1="80" y1="110" x2="1120" y2="110" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="80" y1="520" x2="1120" y2="520" stroke="#d0d7de" stroke-width="1"/>
+  <text x="80" y="80" font-family="monospace" font-size="22" fill="#57606a" letter-spacing="5">JP / DEV  PORTFOLIO / 2026</text>
+  <text x="76" y="300" font-family="Geist, Arial, sans-serif" font-size="120" font-weight="600" fill="#0d1117" letter-spacing="-3">Jo�o Pedro</text>
+  <text x="80" y="380" font-family="Georgia, serif" font-size="56" font-style="italic" fill="#0d1117">Full Stack Developer</text>
+  <g font-family="monospace" font-size="22" fill="#57606a">
+    <text x="80" y="580">BRASIL</text>
+    <text x="360" y="580">NEXT.JS � REACT � TYPESCRIPT</text>
+  </g>
+  <circle cx="1096" cy="573" r="8" fill="#238636"/>
+  <text x="1080" y="580" font-family="monospace" font-size="22" fill="#57606a" text-anchor="end">AVAILABLE</text>
+</svg>

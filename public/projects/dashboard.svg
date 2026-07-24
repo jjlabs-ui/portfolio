@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" role="img" aria-label="Dashboard Administrativo">
+  <rect width="1600" height="1000" fill="#f6f8fa"/>
+  <rect x="0" y="0" width="280" height="1000" fill="#0d1117"/>
+  <g fill="#ffffff" opacity="0.5">
+    <rect x="48" y="120" width="184" height="16"/>
+    <rect x="48" y="170" width="140" height="16"/>
+    <rect x="48" y="220" width="160" height="16"/>
+    <rect x="48" y="270" width="120" height="16"/>
+  </g>
+  <g stroke="#d0d7de" stroke-width="1" fill="#ffffff">
+    <rect x="360" y="140" width="360" height="200"/>
+    <rect x="760" y="140" width="360" height="200"/>
+    <rect x="1160" y="140" width="320" height="200"/>
+    <rect x="360" y="400" width="1120" height="440"/>
+  </g>
+  <polyline points="400,760 560,640 720,700 880,540 1040,600 1200,460 1440,520" fill="none" stroke="#2f81f7" stroke-width="3"/>
+  <text x="400" y="200" font-family="Georgia, serif" font-size="64" fill="#0d1117" font-style="italic">98%</text>
+  <text x="800" y="200" font-family="Georgia, serif" font-size="64" fill="#0d1117" font-style="italic">1.2k</text>
+  <text x="1200" y="200" font-family="Georgia, serif" font-size="64" fill="#238636" font-style="italic">+24%</text>
+  <text x="360" y="90" font-family="monospace" font-size="24" fill="#57606a" letter-spacing="4">03  APLICA��O WEB</text>
+</svg>
