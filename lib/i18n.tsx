@@ -304,7 +304,7 @@ const pt = {
     p1: "Nada aqui é template pronto. Cada seção foi pensada do zero: da tipografia ao espaçamento, do movimento à forma como a informação chega até você.",
     p2: "A estratégia é simples: clareza e confiança. Um visual limpo, preto no branco, que coloca a mensagem em primeiro lugar e mostra, na prática, o nível de cuidado que aplico em cada projeto.",
     priceLabel: "Quanto vale um site assim",
-    priceValue: "A partir de R$ 2.500",
+    priceValue: "A partir de R$ 6.000",
     priceHint:
       "Valor de exemplo. O investimento varia conforme escopo, número de páginas, animações e funcionalidades.",
     builtWith: "Construído com",
@@ -631,7 +631,7 @@ const en: Dict = {
     p1: "Nothing here is an off-the-shelf template. Every section was thought out from scratch: from typography to spacing, from motion to the way information reaches you.",
     p2: "The strategy is simple: clarity and trust. A clean look, black on white, that puts the message first and shows, in practice, the level of care I apply to every project.",
     priceLabel: "What a site like this is worth",
-    priceValue: "From R$ 2,500",
+    priceValue: "From R$ 6,000",
     priceHint:
       "Example figure. The investment varies with scope, number of pages, animations and features.",
     builtWith: "Built with",
