@@ -210,10 +210,10 @@ export default function Hero() {
         </aside>
       </div>
 
-      {/* Scroll indicator */}
+      {/* Scroll indicator — desktop only (native scroll on mobile) */}
       <div
         data-hero-fade
-        className="shell absolute inset-x-0 bottom-6 z-10 flex items-center justify-between"
+        className="shell absolute inset-x-0 bottom-6 z-10 hidden items-center justify-between md:flex"
       >
         <span className="font-mono text-xs uppercase tracking-widest text-muted">
           {h.scroll}
